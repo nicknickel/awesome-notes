@@ -1,6 +1,8 @@
 # Awesome Notes
 A "master" list of note-taking applications to end the endless googling. Created mostly for myself but aggregated mostly for everyone else.
 
+Disclaimer: These are only applications that work on a desktop, though many do have mobile versions. I also only looked for applications that can house notes. If it could edit a note but not house multiple notes (think notepad.exe or TextEdit), that's not what I was looking for.
+
 * [Evernote](https://evernote.com/) - Accomplish more with better notes
 * [Onenote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1) - Your digital notebook
 * [Boostnote](https://boostnote.io/) - Develop as one, grow as one
