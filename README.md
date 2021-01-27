@@ -61,3 +61,4 @@ Disclaimer: These are only applications that work on a desktop, though many do h
 * [Inkdrop](https://www.inkdrop.app/) - Organizing your Markdown notes made simple
 * [Gnote](https://help.gnome.org/users/gnote/stable/introduction.html.en) - Gnote is a desktop note-taking application for GNOME
 * [Outline](https://www.getoutline.com/) - Your team's knowledge base
+* [NVUltra](https://nvultra.com/) - Searchable, portable, MultiMarkdown notes
