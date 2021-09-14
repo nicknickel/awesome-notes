@@ -62,3 +62,4 @@ Disclaimer: These are only applications that work on a desktop, though many do h
 * [Gnote](https://help.gnome.org/users/gnote/stable/introduction.html.en) - Gnote is a desktop note-taking application for GNOME
 * [Outline](https://www.getoutline.com/) - Your team's knowledge base
 * [NVUltra](https://nvultra.com/) - Searchable, portable, MultiMarkdown notes
+* [GitNote](https://gitnoteapp.com) - A modern note taking app based on GIT.
