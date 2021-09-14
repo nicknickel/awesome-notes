@@ -67,3 +67,5 @@ Disclaimer: These are only applications that work on a desktop, though many do h
 * [Notejoy](https://notejoy.com/) - Fast and focused notes for you and your team
 * [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
 * [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base
+* [Dnote](https://www.getdnote.com/) - A Simple Command Line Notebook
+* [Notea](https://cinwell.com/notea/) - Self hosted note taking app stored on S3
