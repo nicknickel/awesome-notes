@@ -63,3 +63,7 @@ Disclaimer: These are only applications that work on a desktop, though many do h
 * [Outline](https://www.getoutline.com/) - Your team's knowledge base
 * [NVUltra](https://nvultra.com/) - Searchable, portable, MultiMarkdown notes
 * [GitNote](https://gitnoteapp.com) - A modern note taking app based on GIT.
+* [nimbusNote](https://nimbusweb.me/) - One place to manage all your...everything
+* [Notejoy](https://notejoy.com/) - Fast and focused notes for you and your team
+* [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
+* [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base
